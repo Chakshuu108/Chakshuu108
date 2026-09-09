@@ -2,17 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Chakshu%20Gupta&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Turning%20data%20into%20decisions%2C%20one%20model%20at%20a%20time&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2200&pause=700&color=2575FC&center=true&vCenter=true&multiline=true&width=650&height=90&lines=training+GANs+to+erase+watermarks+%F0%9F%8E%A8;building+RAG+pipelines+that+actually+work;debugging+tensors+at+3am+%F0%9F%8C%99" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2200&pause=700&color=2575FC&center=true&vCenter=true&multiline=true&width=650&height=90&lines=404%3A+Sleep+Not+Found;while(bugs)+%7B+coffee%2B%2B+%7D;git+commit+-m+%22it+works+on+my+machine%22" />
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/chakshugupta108">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
 </a>
 <a href="https://github.com/Chakshuu108">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
 </a>
-<a href="https://your-portfolio-link.com">
+<a href="https://chakshugupta.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
 </a>
 <a href="mailto:cgupta_be23@thapar.edu">
@@ -35,67 +35,30 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,sql&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,git,github,vscode,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="45"/> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45"/> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=java&theme=dark" height="45"/> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=html&theme=dark" height="45"/> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark" height="45"/> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=sql&theme=dark" height="45"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="45"/> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="45"/> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="45"/> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="45"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="45"/> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="45"/> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="45"/> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="45"/> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45"/> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="45"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-| Domain | Stack |
-|---|---|
-| 🤖 **AI / ML** | LangChain · LangGraph · Transformers · Feature Engineering · Model Evaluation |
-| 📈 **Data Science** | pandas · NumPy · SciPy · EDA · Gradient Boosting |
-| 🧵 **Core CS** | DSA · OOP · DBMS · Operating Systems · Computer Networks |
-| ⚙️ **Dev Tools** | REST APIs · CI/CD · Streamlit · Jupyter · Google Colab |
-
-</div>
-
----
-
-## 🚀 Projects Worth a Look
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 MediCure-AI
-Multi-agent healthcare platform — symptom analysis, risk assessment, real-time clinical alerts, SSE-based streaming.
-
-`FastAPI` `PostgreSQL` `LangGraph` `LangChain`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔎 AI Codebase Assistant
-RAG pipeline over GitHub repos with semantic code search + automated issue triage using vector similarity.
-
-`n8n` `Gemini Embeddings` `Qdrant`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📉 TrendyFire
-End-to-end AI demand forecasting platform — from raw data to automated business reporting.
-
-`Gen AI` `NLP` `Business Intelligence`
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Contextual Doc Search Engine
-Custom search engine built on the KMP algorithm — `O(m+n)` pattern matching for blazing-fast queries.
-
-`C++` `Algorithms`
-
-</td>
-</tr>
-</table>
 
 ---
 
