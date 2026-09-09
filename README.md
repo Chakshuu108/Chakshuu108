@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Chakshu%20Gupta&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Turning%20data%20into%20decisions%2C%20one%20model%20at%20a%20time&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=2575FC&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Computer+Engineering+%40+Thapar+Institute;AI%2FML+%C2%B7+Generative+AI+%C2%B7+Data+Science;Currently+training+GANs+to+erase+watermarks+%F0%9F%8E%A8" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2200&pause=700&color=2575FC&center=true&vCenter=true&multiline=true&width=650&height=90&lines=training+GANs+to+erase+watermarks+%F0%9F%8E%A8;building+RAG+pipelines+that+actually+work;debugging+tensors+at+3am+%F0%9F%8C%99" />
 
 <br/>
 
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Chakshuu108&label=Profile%20Views&color=6a11cb&style=for-the-badge" />
 
@@ -27,20 +27,9 @@
 
 <br/>
 
-## 🧬 A Bit About Me
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/wave-gif-2.gif" width="100%"/>
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/code.gif" />
-
-- 🎓 B.Tech Computer Engineering, **Thapar Institute of Engineering & Technology** — CGPA `8.40`
-- 🔬 Researching **GAN-based watermark removal** under Prof. Deep Maan — paper submitted for peer review, `44.29 dB PSNR` beating baselines
-- 📊 Interned as a **Data Scientist @ Evoastra Ventures** — built churn prediction models at `89%` accuracy
-- 🧠 Deep into **RAG pipelines, LLMs, and multi-agent systems**
-- 🧩 Solved **400+ problems** on LeetCode
-- ⚡ Fun fact: I've spent more hours debugging tensors than sleeping
-
-<br clear="right"/>
-
----
+<br/>
 
 ## 🛠️ Tech Arsenal
 
@@ -125,6 +114,16 @@ Custom search engine built on the KMP algorithm — `O(m+n)` pattern matching fo
 
 ---
 
+## 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Chakshuu108&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
 ## 🐍 Live Contribution Snake
 
 <div align="center">
@@ -133,15 +132,13 @@ Custom search engine built on the KMP algorithm — `O(m+n)` pattern matching fo
 
 </div>
 
-> ⬆️ This animates automatically once you add the workflow below — it "eats" your contribution graph in real time.
-
 <details>
-<summary><b>⚙️ Click to set up the animated snake (one-time, 2 minutes)</b></summary>
+<summary><b>⚙️ One-time setup for the snake animation (2 min)</b></summary>
 
 <br/>
 
-1. In this repo, go to **Actions → New workflow → set up a workflow yourself**
-2. Name the file `snake.yml` and paste:
+1. In this repo → **Actions → New workflow → set up a workflow yourself**
+2. Name it `snake.yml`, paste:
 
 ```yaml
 name: Generate Snake
@@ -173,8 +170,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Commit it, then run it manually once from the **Actions** tab (`Run workflow`)
-4. Wait ~30 seconds — the snake SVG above will start rendering and update daily
+3. Commit → run it once manually from the **Actions** tab
 
 </details>
 
@@ -182,8 +178,14 @@ jobs:
 
 <div align="center">
 
-### 💭 "Every failed experiment is just a data point I hadn't collected yet."
+<img src="https://img.shields.io/badge/🎓_B.Tech-CoE_'27-6a11cb?style=flat-square" />
+<img src="https://img.shields.io/badge/CGPA-8.40-2575fc?style=flat-square" />
+<img src="https://img.shields.io/badge/LeetCode-400%2B_solved-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Research-GANs_%7C_PSNR_44.29dB-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/📍-Patiala,_India-red?style=flat-square" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=150&section=footer" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" />
 
 </div>
