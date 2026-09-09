@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Chakshu%20Gupta&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Turning%20data%20into%20decisions%2C%20one%20model%20at%20a%20time&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2200&pause=700&color=2575FC&center=true&vCenter=true&multiline=true&width=650&height=90&lines=404%3A+Sleep+Not+Found;while(bugs)+%7B+coffee%2B%2B+%7D;git+commit+-m+%22it+works+on+my+machine%22" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=650&height=60&lines=404%3A+Sleep+Not+Found" />
 
 <br/>
 
