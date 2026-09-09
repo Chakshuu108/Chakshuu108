@@ -87,53 +87,20 @@
 
 ---
 
-## 🐍 Live Contribution Snake
+## 🧊 Live 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Chakshuu108/Chakshuu108/output/github-contribution-grid-snake-dark.svg" width="90%" />
+<img src="https://raw.githubusercontent.com/Chakshuu108/Chakshuu108/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </div>
 
 <details>
-<summary><b>⚙️ One-time setup for the snake animation (2 min)</b></summary>
+<summary><b>⚙️ How this works (auto-updates daily via GitHub Actions)</b></summary>
 
 <br/>
 
-1. In this repo → **Actions → New workflow → set up a workflow yourself**
-2. Name it `snake.yml`, paste:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Chakshuu108
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Commit → run it once manually from the **Actions** tab
+A scheduled GitHub Action renders your contribution graph as a rotating isometric 3D SVG and pushes it to the `output` branch every day. See `.github/workflows/profile-3d.yml` in this repo for the workflow definition.
 
 </details>
 
